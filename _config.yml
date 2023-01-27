@@ -1,4 +1,27 @@
-remote_theme: pages-themes/tactile@v0.2.0
+ ## Site settings
+title: Prilldev
+description: Aaron Prill's personal Github
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://prilldev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+## Theme
+remote_theme: just-the-docs/just-the-docs
+
+## No search bar at the top
+search_enabled: false
+
+# Add anchors for every heading on a page
+heading_anchors: true
+
+# Aux Links in upper right
+aux_links:
+  "Prof. Github (prillcode)":
+    - "//github.com/prillcode"
+  "Personal Github (prilldev)":
+    - "//github.com/prilldev"
+  "LinkedIn":
+    - "//linkedin.com/in/aaronprill"
+  "twitter":
+    - "//twitter.com/aaronprill"
+
+aux_links_new_tab: true
