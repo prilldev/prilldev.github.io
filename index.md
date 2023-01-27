@@ -6,10 +6,10 @@ nav_order: 1
 {% include page_banner.html %}
 # About Me
 
-👋 Hi, I’m Aaron Prill
-👀 I’m interested in new web technologies, youth sports, auto racing, and being a dad to gamer/sports kids.
-🌱 I’m currently learning AWS, C#, Cloud data, and Roblox game development in Lua/Typescript.
-📫 How to reach me: prilldev[at]gmail(dot)com
+- 👋 Hi, I’m Aaron Prill
+- 👀 I’m interested in new web technologies, youth sports, auto racing, and being a dad to gamer/sports kids.
+- 🌱 I’m proficient in C#/SQL/VB, Moving toward AWS/Cloud data technologies, and dabble in Roblox game development with Lua/Typescript.
+- 📫 How to reach me: prilldev[at]gmail(dot)com
 
 # prilldev on @github
 Latest Github Projects by Aaron Prill
